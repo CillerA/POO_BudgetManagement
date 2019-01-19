@@ -1,0 +1,12 @@
+		 Raport datorii
+Nume datorie: DatorieCiller
+Numar categorii: 2
+Suma 1 :30
+Suma 2 :40
+
+Unitate: lei
+
+Status 1 :1
+Status 2 :0
+---------------------------------------
+Total datorii: 70
