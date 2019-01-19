@@ -1,6 +1,6 @@
 # POO_BudgetManagement
 
-Written in C++,  taking into account the principles of Object Oriented Programming
+Written in C++,  taking into account the principles of Object Oriented Programming ==> Check finalCode.cpp
   
 Requirements : 
   - dynamically defined field managed by a pointer,  a statically defined vector;
@@ -16,6 +16,7 @@ Requirements :
   - virtual methods
   - STL library (vector, map, list)
   - inehritance
-  - friend operators
+  - friend operators and methods
+  - adding, deleting opperations
 
   
